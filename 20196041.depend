@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623103011 source:c:\users\mshaf\desktop\20196041\main.cpp
+	<iostream>
+
+1622936778 c:\users\mshaf\desktop\20196041\include\list.h
+
+1622936778 source:c:\users\mshaf\desktop\20196041\src\list.cpp
+	<iostream>
+
+1623181919 source:c:\users\mshaf\desktop\ds\linked list\main.cpp
+	<iostream>
+
+1623181919 source:d:\uni\4th term\done\data structure\ds\linked list\main.cpp
+	<iostream>
+
